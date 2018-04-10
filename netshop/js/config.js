@@ -73,7 +73,7 @@ $(function() {
 	simpleStore.init({
 
 		// brand can be text or image URL
-		brand : "SimpleStore",
+		brand : "http://mikkelaagesen.com/Webshop/images/eye_logo_banner.png",
 
 		// numder of products per row (accepts 1, 2 or 3)
 		numColumns : 3,

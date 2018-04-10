@@ -1,61 +1,32 @@
 {
 	"products" : [
 		{
-			"name" : "Awesome T-shirt",
-			"price" : "149.95",
+			"name" : "EYE & HAND",
+			"price" : "150",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" }
+				{ "Size" : "S,M,L,XL" }
 			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+			"image" : "http://mikkelaagesen.com/Webshop/images/Asset%203.png",
 			"description" : "This is a very awesome grey T-shirt"
 		},
 		{
-			"name" : "Cool T-shirt",
-			"price" : "159.95",
+			"name" : "LAZY EYE",
+			"price" : "150",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" },
-				{ "Color" : "Blue,Red" },
+				{ "Size" : "S,M,L,XL" },
+	
 			    { "OneOfAKind" : true }
 			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/2/24/Blue_Tshirt.jpg",
+			"image" : "http://mikkelaagesen.com/Webshop/images/Asset%204.png",
 			"description" : "This is a really cool blue T-shirt"
 		},
 		{
-			"name" : "Fun T-shirt",
-			"price" : "169.95",
+			"name" : "EYE & KEYHOLE",
+			"price" : "150",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" }
+				{ "Size" : "S,M,L,XL" }
 			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
-			"description" : "This is another fun grey T-shirt"
-		},
-				{
-			"name" : "new thinking",
-			"price" : "129.95",
-			"options" : [
-				{ "Size" : "Small,Medium,Large" }
-			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
-			"description" : "This is a very awesome grey T-shirt"
-		},
-		{
-			"name" : "Hands up",
-			"price" : "139.95",
-			"options" : [
-				{ "Size" : "Small,Medium,Large" },
-				{ "Color" : "Blue,Red" },
-			    { "OneOfAKind" : true }
-			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/2/24/Blue_Tshirt.jpg",
-			"description" : "This is a really cool blue T-shirt"
-		},
-		{
-			"name" : "eye please",
-			"price" : "179.95",
-			"options" : [
-				{ "Size" : "Small,Medium,Large" }
-			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+			"image" : "http://mikkelaagesen.com/Webshop/images/Asset%205.png",
 			"description" : "This is another fun grey T-shirt"
 		}
 	]
