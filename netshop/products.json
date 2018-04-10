@@ -6,8 +6,8 @@
 			"options" : [
 				{ "Size" : "S,M,L,XL" }
 			],
-			"image" : "http://mikkelaagesen.com/Webshop/images/Asset%203.png",
-			"description" : "This is a very awesome grey T-shirt"
+			"image" : "http://mikkelaagesen.com/webshop/images/Asset3.png",
+			"description" : "DESIGN BY: URSUS"
 		},
 		{
 			"name" : "LAZY EYE",
@@ -17,8 +17,8 @@
 	
 			    { "OneOfAKind" : true }
 			],
-			"image" : "http://mikkelaagesen.com/Webshop/images/Asset%204.png",
-			"description" : "This is a really cool blue T-shirt"
+			"image" : "http://mikkelaagesen.com/webshop/images/Asset4.png",
+			"description" : "DESIGN BY: URSUS"
 		},
 		{
 			"name" : "EYE & KEYHOLE",
@@ -26,8 +26,8 @@
 			"options" : [
 				{ "Size" : "S,M,L,XL" }
 			],
-			"image" : "http://mikkelaagesen.com/Webshop/images/Asset%205.png",
-			"description" : "This is another fun grey T-shirt"
+			"image" : "http://mikkelaagesen.com/webshop/images/Asset5.png",
+			"description" : "DESIGN BY: URSUS"
 		}
 	]
 }
